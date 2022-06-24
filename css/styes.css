@@ -1,0 +1,14 @@
+body{
+    background-color: green;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width: 1200px;
+    margin: 5%;
+    padding: 274px 215px 444px;
+    background-color: azure; 
+    border-radius: 30px;
+    box-sizing: border-box;
+    box-shadow: 0 20px 65px greenyellow;
+}
